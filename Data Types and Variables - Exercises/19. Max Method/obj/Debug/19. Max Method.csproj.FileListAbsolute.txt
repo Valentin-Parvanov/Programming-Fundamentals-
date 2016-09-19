@@ -1,6 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\19. Max Method\bin\Debug\_19.Max_Method.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\19. Max Method\obj\Debug\19. Max Method.csprojResolveAssemblyReference.cache
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\19. Max Method\bin\Debug\_19.Max_Method.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\19. Max Method\bin\Debug\_19.Max_Method.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\19. Max Method\obj\Debug\_19.Max_Method.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\19. Max Method\obj\Debug\_19.Max_Method.pdb

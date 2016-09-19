@@ -1,6 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\15. Comparing floats\bin\Debug\_15.Comparing_floats.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\15. Comparing floats\bin\Debug\_15.Comparing_floats.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\15. Comparing floats\bin\Debug\_15.Comparing_floats.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\15. Comparing floats\obj\Debug\15. Comparing floats.csprojResolveAssemblyReference.cache
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\15. Comparing floats\obj\Debug\_15.Comparing_floats.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\15. Comparing floats\obj\Debug\_15.Comparing_floats.pdb

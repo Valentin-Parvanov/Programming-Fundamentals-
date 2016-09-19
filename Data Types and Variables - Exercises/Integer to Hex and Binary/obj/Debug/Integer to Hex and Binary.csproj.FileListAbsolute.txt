@@ -1,5 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\Integer to Hex and Binary\bin\Debug\Integer to Hex and Binary.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\Integer to Hex and Binary\obj\Debug\Integer to Hex and Binary.pdb

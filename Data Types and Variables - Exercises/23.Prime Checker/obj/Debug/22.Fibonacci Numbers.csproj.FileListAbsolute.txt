@@ -1,6 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23.Prime Checker\bin\Debug\23.Prime Checker.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23.Prime Checker\bin\Debug\23.Prime Checker.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23.Prime Checker\bin\Debug\23.Prime Checker.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23.Prime Checker\obj\Debug\22.Fibonacci Numbers.csprojResolveAssemblyReference.cache
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23.Prime Checker\obj\Debug\23.Prime Checker.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23.Prime Checker\obj\Debug\23.Prime Checker.pdb

@@ -1,5 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\NameOfTheLastDigit1\bin\Debug\NameOfTheLastDigit1.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\NameOfTheLastDigit1\bin\Debug\NameOfTheLastDigit1.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\NameOfTheLastDigit1\bin\Debug\NameOfTheLastDigit1.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\NameOfTheLastDigit1\obj\Debug\NameOfTheLastDigit1.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\NameOfTheLastDigit1\obj\Debug\NameOfTheLastDigit1.pdb

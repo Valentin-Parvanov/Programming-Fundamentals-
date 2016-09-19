@@ -1,5 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\1.Practice Integer Numbers\bin\Debug\1.Practice Integer Numbers.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\1.Practice Integer Numbers\bin\Debug\1.Practice Integer Numbers.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\1.Practice Integer Numbers\bin\Debug\1.Practice Integer Numbers.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\1.Practice Integer Numbers\obj\Debug\1.Practice Integer Numbers.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\1.Practice Integer Numbers\obj\Debug\1.Practice Integer Numbers.pdb

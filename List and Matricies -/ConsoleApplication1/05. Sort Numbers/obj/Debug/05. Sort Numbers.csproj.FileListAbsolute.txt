@@ -1,0 +1,6 @@
+C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\05. Sort Numbers\obj\Debug\05. Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb

@@ -1,5 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.pdb

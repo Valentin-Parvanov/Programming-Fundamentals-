@@ -1,6 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23. Prime Checker\bin\Debug\_23.Prime_Checker.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23. Prime Checker\obj\Debug\23. Prime Checker.csprojResolveAssemblyReference.cache
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23. Prime Checker\bin\Debug\_23.Prime_Checker.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23. Prime Checker\bin\Debug\_23.Prime_Checker.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23. Prime Checker\obj\Debug\_23.Prime_Checker.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\23. Prime Checker\obj\Debug\_23.Prime_Checker.pdb

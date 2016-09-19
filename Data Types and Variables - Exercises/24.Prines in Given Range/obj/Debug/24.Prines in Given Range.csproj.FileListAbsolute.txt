@@ -1,6 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\24.Prines in Given Range\bin\Debug\24.Prines in Given Range.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\24.Prines in Given Range\bin\Debug\24.Prines in Given Range.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\24.Prines in Given Range\bin\Debug\24.Prines in Given Range.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\24.Prines in Given Range\obj\Debug\24.Prines in Given Range.csprojResolveAssemblyReference.cache
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\24.Prines in Given Range\obj\Debug\24.Prines in Given Range.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\24.Prines in Given Range\obj\Debug\24.Prines in Given Range.pdb

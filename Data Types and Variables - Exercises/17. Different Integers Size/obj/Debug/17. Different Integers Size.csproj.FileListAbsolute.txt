@@ -1,6 +1,0 @@
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.exe.config
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\17. Different Integers Size\bin\Debug\_17.Different_Integers_Size.pdb
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\17. Different Integers Size\obj\Debug\17. Different Integers Size.csprojResolveAssemblyReference.cache
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.exe
-C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\17. Different Integers Size\obj\Debug\_17.Different_Integers_Size.pdb
