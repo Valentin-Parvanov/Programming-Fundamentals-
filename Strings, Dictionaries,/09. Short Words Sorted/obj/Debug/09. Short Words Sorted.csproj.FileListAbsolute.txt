@@ -1,0 +1,6 @@
+C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\09. Short Words Sorted\bin\Debug\_09.Short_Words_Sorted.exe.config
+C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\09. Short Words Sorted\obj\Debug\09. Short Words Sorted.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\09. Short Words Sorted\bin\Debug\_09.Short_Words_Sorted.exe
+C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\09. Short Words Sorted\bin\Debug\_09.Short_Words_Sorted.pdb
+C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\09. Short Words Sorted\obj\Debug\_09.Short_Words_Sorted.exe
+C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\09. Short Words Sorted\obj\Debug\_09.Short_Words_Sorted.pdb

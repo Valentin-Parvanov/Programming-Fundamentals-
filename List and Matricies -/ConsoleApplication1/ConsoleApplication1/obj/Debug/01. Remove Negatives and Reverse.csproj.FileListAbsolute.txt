@@ -1,3 +1,0 @@
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

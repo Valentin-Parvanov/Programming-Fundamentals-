@@ -1,5 +1,0 @@
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe.config
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\06. Square Numbers\bin\Debug\_06.Square_Numbers.pdb
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\06. Square Numbers\obj\Debug\_06.Square_Numbers.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\06. Square Numbers\obj\Debug\_06.Square_Numbers.pdb

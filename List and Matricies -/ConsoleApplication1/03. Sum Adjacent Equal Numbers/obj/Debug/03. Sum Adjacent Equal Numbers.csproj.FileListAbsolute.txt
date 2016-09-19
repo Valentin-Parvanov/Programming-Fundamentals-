@@ -1,6 +1,0 @@
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe.config
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\03. Sum Adjacent Equal Numbers\bin\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\03. Sum Adjacent Equal Numbers\obj\Debug\03. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\03. Sum Adjacent Equal Numbers\obj\Debug\_03.Sum_Adjacent_Equal_Numbers.pdb

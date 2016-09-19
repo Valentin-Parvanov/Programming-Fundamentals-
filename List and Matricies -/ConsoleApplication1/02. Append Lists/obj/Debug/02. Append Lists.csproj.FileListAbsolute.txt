@@ -1,6 +1,0 @@
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\02. Append Lists\bin\Debug\_02.Append_Lists.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\02. Append Lists\obj\Debug\02. Append Lists.csprojResolveAssemblyReference.cache
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\02. Append Lists\obj\Debug\_02.Append_Lists.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\02. Append Lists\obj\Debug\_02.Append_Lists.pdb

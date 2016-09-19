@@ -1,6 +1,0 @@
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\08. Matrix of Letters\bin\Debug\_08.Matrix_of_Letters.exe.config
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\08. Matrix of Letters\bin\Debug\_08.Matrix_of_Letters.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\08. Matrix of Letters\bin\Debug\_08.Matrix_of_Letters.pdb
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\08. Matrix of Letters\obj\Debug\08. Matrix of Letters.csprojResolveAssemblyReference.cache
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\08. Matrix of Letters\obj\Debug\_08.Matrix_of_Letters.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\08. Matrix of Letters\obj\Debug\_08.Matrix_of_Letters.pdb

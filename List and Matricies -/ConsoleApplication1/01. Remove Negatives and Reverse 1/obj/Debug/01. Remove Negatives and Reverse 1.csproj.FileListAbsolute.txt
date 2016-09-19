@@ -1,5 +1,0 @@
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\01. Remove Negatives and Reverse 1\bin\Debug\_01.Remove_Negatives_and_Reverse_1.exe.config
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\01. Remove Negatives and Reverse 1\bin\Debug\_01.Remove_Negatives_and_Reverse_1.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\01. Remove Negatives and Reverse 1\bin\Debug\_01.Remove_Negatives_and_Reverse_1.pdb
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\01. Remove Negatives and Reverse 1\obj\Debug\_01.Remove_Negatives_and_Reverse_1.exe
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\01. Remove Negatives and Reverse 1\obj\Debug\_01.Remove_Negatives_and_Reverse_1.pdb

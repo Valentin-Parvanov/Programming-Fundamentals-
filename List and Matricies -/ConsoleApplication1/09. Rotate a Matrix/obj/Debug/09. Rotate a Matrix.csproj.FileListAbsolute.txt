@@ -1,1 +1,0 @@
-C:\Programs\vs\List and Matricies\List and Matricies -\ConsoleApplication1\09. Rotate a Matrix\bin\Debug\_09.Rotate_a_Matrix.exe.config
