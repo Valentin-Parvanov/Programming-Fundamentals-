@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\25. Master Numbers\bin\Debug\_25.Master_Numbers.exe.config
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\25. Master Numbers\bin\Debug\_25.Master_Numbers.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\25. Master Numbers\bin\Debug\_25.Master_Numbers.pdb
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\25. Master Numbers\obj\Debug\25. Master Numbers.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\25. Master Numbers\obj\Debug\_25.Master_Numbers.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\25. Master Numbers\obj\Debug\_25.Master_Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\16. Print Part Of ASCII Table\bin\Debug\_16.Print_Part_Of_ASCII_Table.exe.config
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\16. Print Part Of ASCII Table\bin\Debug\_16.Print_Part_Of_ASCII_Table.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\16. Print Part Of ASCII Table\bin\Debug\_16.Print_Part_Of_ASCII_Table.pdb
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\16. Print Part Of ASCII Table\obj\Debug\_16.Print_Part_Of_ASCII_Table.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\16. Print Part Of ASCII Table\obj\Debug\_16.Print_Part_Of_ASCII_Table.pdb

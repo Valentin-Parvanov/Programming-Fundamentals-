@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe.config
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.pdb
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\03. Practice Chars And Strings\obj\Debug\03. Practice Chars And Strings.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\03. Practice Chars And Strings\obj\Debug\_03.Practice_Chars_And_Strings.pdb

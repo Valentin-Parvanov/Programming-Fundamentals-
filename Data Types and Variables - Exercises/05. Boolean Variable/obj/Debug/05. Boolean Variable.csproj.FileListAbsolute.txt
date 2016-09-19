@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe.config
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\05. Boolean Variable\bin\Debug\_05.Boolean_Variable.pdb
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\05. Boolean Variable\obj\Debug\_05.Boolean_Variable.pdb
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\05. Boolean Variable\obj\Debug\05. Boolean Variable.csprojResolveAssemblyReference.cache

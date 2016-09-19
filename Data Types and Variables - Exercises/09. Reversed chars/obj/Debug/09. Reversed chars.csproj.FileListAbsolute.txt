@@ -1,0 +1,5 @@
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

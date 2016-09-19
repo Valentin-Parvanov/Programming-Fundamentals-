@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\English Name Of The Last Digit\bin\Debug\English Name Of The Last Digit.exe.config
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\English Name Of The Last Digit\bin\Debug\English Name Of The Last Digit.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\English Name Of The Last Digit\bin\Debug\English Name Of The Last Digit.pdb
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\English Name Of The Last Digit\obj\Debug\English Name Of The Last Digit.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\English Name Of The Last Digit\obj\Debug\English Name Of The Last Digit.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\English Name Of The Last Digit\obj\Debug\English Name Of The Last Digit.pdb

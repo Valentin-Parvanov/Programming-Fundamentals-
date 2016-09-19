@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
+C:\Programs\vs\Data Types and Methods\English Name Of The Last Digit\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb
