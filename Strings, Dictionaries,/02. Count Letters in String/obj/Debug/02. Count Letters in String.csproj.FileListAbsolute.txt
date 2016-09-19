@@ -1,5 +1,0 @@
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\02. Count Letters in String\bin\Debug\_02.Count_Letters_in_String.exe.config
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\02. Count Letters in String\bin\Debug\_02.Count_Letters_in_String.exe
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\02. Count Letters in String\bin\Debug\_02.Count_Letters_in_String.pdb
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\02. Count Letters in String\obj\Debug\_02.Count_Letters_in_String.exe
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\02. Count Letters in String\obj\Debug\_02.Count_Letters_in_String.pdb

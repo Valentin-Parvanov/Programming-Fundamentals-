@@ -1,1 +1,0 @@
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\07. Odd Occurrences\bin\Debug\_07.Odd_Occurrences.exe.config

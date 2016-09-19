@@ -1,1 +1,0 @@
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\05. Forbidden Substrings\bin\Debug\_05.Forbidden_Substrings.exe.config

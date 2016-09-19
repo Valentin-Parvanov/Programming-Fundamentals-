@@ -1,1 +1,0 @@
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\10.Fold and Sum\bin\Debug\10.Fold and Sum.exe.config

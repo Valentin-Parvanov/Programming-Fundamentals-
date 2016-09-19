@@ -1,6 +1,0 @@
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\04. Occurrences in String\bin\Debug\_04.Occurrences_in_String.exe.config
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\04. Occurrences in String\bin\Debug\_04.Occurrences_in_String.exe
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\04. Occurrences in String\bin\Debug\_04.Occurrences_in_String.pdb
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\04. Occurrences in String\obj\Debug\04. Occurrences in String.csprojResolveAssemblyReference.cache
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\04. Occurrences in String\obj\Debug\_04.Occurrences_in_String.exe
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\04. Occurrences in String\obj\Debug\_04.Occurrences_in_String.pdb

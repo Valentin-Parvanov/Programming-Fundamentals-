@@ -1,6 +1,0 @@
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\03. Print a Receipt\bin\Debug\_03.Print_a_Receipt.exe.config
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\03. Print a Receipt\bin\Debug\_03.Print_a_Receipt.exe
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\03. Print a Receipt\bin\Debug\_03.Print_a_Receipt.pdb
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\03. Print a Receipt\obj\Debug\03. Print a Receipt.csprojResolveAssemblyReference.cache
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\03. Print a Receipt\obj\Debug\_03.Print_a_Receipt.exe
-C:\Programs\vs\Strings, Dictionaries, Lambda and LINQ\Strings, Dictionaries, Lambda and LINQ -lap\Strings, Dictionaries,\03. Print a Receipt\obj\Debug\_03.Print_a_Receipt.pdb
