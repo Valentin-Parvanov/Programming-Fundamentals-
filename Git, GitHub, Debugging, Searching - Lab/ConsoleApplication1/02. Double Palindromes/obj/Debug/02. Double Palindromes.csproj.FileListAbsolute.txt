@@ -1,0 +1,6 @@
+C:\Programs\vs\Git, GitHub, Debugging, Searching - Lab\ConsoleApplication1\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.exe.config
+C:\Programs\vs\Git, GitHub, Debugging, Searching - Lab\ConsoleApplication1\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.exe
+C:\Programs\vs\Git, GitHub, Debugging, Searching - Lab\ConsoleApplication1\02. Double Palindromes\bin\Debug\_02.Double_Palindromes.pdb
+C:\Programs\vs\Git, GitHub, Debugging, Searching - Lab\ConsoleApplication1\02. Double Palindromes\obj\Debug\02. Double Palindromes.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Git, GitHub, Debugging, Searching - Lab\ConsoleApplication1\02. Double Palindromes\obj\Debug\_02.Double_Palindromes.exe
+C:\Programs\vs\Git, GitHub, Debugging, Searching - Lab\ConsoleApplication1\02. Double Palindromes\obj\Debug\_02.Double_Palindromes.pdb
