@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\09. Refactor Special Numbers toString\bin\Debug\_09.Refactor_Special_Numbers_toString.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\09. Refactor Special Numbers toString\bin\Debug\_09.Refactor_Special_Numbers_toString.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\09. Refactor Special Numbers toString\bin\Debug\_09.Refactor_Special_Numbers_toString.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\09. Refactor Special Numbers toString\obj\Debug\09. Refactor Special Numbers toString.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\09. Refactor Special Numbers toString\obj\Debug\_09.Refactor_Special_Numbers_toString.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\09. Refactor Special Numbers toString\obj\Debug\_09.Refactor_Special_Numbers_toString.pdb

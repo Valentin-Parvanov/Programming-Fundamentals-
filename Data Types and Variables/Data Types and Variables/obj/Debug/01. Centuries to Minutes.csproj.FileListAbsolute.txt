@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\Data Types and Variables\bin\Debug\Data Types and Variables.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\Data Types and Variables\bin\Debug\Data Types and Variables.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\Data Types and Variables\bin\Debug\Data Types and Variables.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\Data Types and Variables\obj\Debug\01. Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\Data Types and Variables\obj\Debug\Data Types and Variables.pdb

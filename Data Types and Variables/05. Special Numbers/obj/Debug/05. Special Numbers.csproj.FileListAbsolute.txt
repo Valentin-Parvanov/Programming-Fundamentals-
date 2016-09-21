@@ -1,0 +1,5 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

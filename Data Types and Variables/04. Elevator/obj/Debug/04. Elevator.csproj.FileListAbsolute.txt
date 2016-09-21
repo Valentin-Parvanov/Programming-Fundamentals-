@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\04. Elevator\bin\Debug\_04.Elevator.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\04. Elevator\bin\Debug\_04.Elevator.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\04. Elevator\bin\Debug\_04.Elevator.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\04. Elevator\obj\Debug\04. Elevator.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\04. Elevator\obj\Debug\_04.Elevator.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\04. Elevator\obj\Debug\_04.Elevator.pdb

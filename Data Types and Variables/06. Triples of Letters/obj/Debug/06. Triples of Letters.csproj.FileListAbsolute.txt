@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\06. Triples of Letters\obj\Debug\06. Triples of Letters.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.pdb
