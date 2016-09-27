@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\19. Thea The Photographer\obj\Debug\19. Thea The Photographer.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.pdb

@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\Data Types and Variables - exer\bin\Debug\Data Types and Variables - exer.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\Data Types and Variables - exer\bin\Debug\Data Types and Variables - exer.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\Data Types and Variables - exer\bin\Debug\Data Types and Variables - exer.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\Data Types and Variables - exer\obj\Debug\1. Practice Integer Numbers.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\Data Types and Variables - exer\obj\Debug\Data Types and Variables - exer.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\Data Types and Variables - exer\obj\Debug\Data Types and Variables - exer.pdb

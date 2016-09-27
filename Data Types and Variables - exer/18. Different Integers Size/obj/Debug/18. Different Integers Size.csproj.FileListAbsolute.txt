@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\18. Different Integers Size\bin\Debug\_18.Different_Integers_Size.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\18. Different Integers Size\obj\Debug\_18.Different_Integers_Size.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\18. Different Integers Size\obj\Debug\18. Different Integers Size.csprojResolveAssemblyReference.cache

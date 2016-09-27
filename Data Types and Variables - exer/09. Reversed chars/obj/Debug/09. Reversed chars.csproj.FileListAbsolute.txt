@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\09. Reversed chars\obj\Debug\09. Reversed chars.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

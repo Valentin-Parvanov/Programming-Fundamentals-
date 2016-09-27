@@ -1,0 +1,5 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

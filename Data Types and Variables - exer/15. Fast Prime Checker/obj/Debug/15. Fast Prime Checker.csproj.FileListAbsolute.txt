@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\15. Fast Prime Checker\obj\Debug\15. Fast Prime Checker.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.pdb

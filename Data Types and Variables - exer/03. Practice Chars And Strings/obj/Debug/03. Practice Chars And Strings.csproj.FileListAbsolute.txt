@@ -1,0 +1,1 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe.config

@@ -1,0 +1,6 @@
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe.config
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\10. Centuries to Nanoseconds\bin\Debug\_10.Centuries_to_Nanoseconds.pdb
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\10. Centuries to Nanoseconds\obj\Debug\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.exe
+C:\Programs\vs\Data Types and Variables\Data Types and Variables - Exercises\Data Types and Variables - exer\10. Centuries to Nanoseconds\obj\Debug\_10.Centuries_to_Nanoseconds.pdb
