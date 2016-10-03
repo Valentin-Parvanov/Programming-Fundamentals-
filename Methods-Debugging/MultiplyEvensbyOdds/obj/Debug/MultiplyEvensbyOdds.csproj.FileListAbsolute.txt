@@ -1,0 +1,6 @@
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\MultiplyEvensbyOdds\bin\Debug\MultiplyEvensbyOdds.exe.config
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\MultiplyEvensbyOdds\obj\Debug\MultiplyEvensbyOdds.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\MultiplyEvensbyOdds\bin\Debug\MultiplyEvensbyOdds.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\MultiplyEvensbyOdds\bin\Debug\MultiplyEvensbyOdds.pdb
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\MultiplyEvensbyOdds\obj\Debug\MultiplyEvensbyOdds.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\MultiplyEvensbyOdds\obj\Debug\MultiplyEvensbyOdds.pdb

@@ -1,0 +1,6 @@
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\PrictChangeAlert\bin\Debug\PrictChangeAlert.exe.config
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\PrictChangeAlert\bin\Debug\PrictChangeAlert.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\PrictChangeAlert\bin\Debug\PrictChangeAlert.pdb
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\PrictChangeAlert\obj\Debug\PrictChangeAlert.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\PrictChangeAlert\obj\Debug\PrictChangeAlert.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\PrictChangeAlert\obj\Debug\PrictChangeAlert.pdb

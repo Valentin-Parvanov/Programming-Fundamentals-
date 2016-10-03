@@ -1,0 +1,6 @@
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\Methods-Debugging\bin\Debug\Methods-Debugging.exe.config
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\Methods-Debugging\bin\Debug\Methods-Debugging.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\Methods-Debugging\bin\Debug\Methods-Debugging.pdb
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\Methods-Debugging\obj\Debug\Methods-Debugging.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\Methods-Debugging\obj\Debug\Methods-Debugging.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\Methods-Debugging\obj\Debug\Methods-Debugging.pdb

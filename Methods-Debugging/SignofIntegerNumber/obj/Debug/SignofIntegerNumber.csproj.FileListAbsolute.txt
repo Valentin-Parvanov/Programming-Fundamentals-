@@ -1,0 +1,6 @@
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\SignofIntegerNumber\bin\Debug\SignofIntegerNumber.exe.config
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\SignofIntegerNumber\bin\Debug\SignofIntegerNumber.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\SignofIntegerNumber\bin\Debug\SignofIntegerNumber.pdb
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\SignofIntegerNumber\obj\Debug\SignofIntegerNumber.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\SignofIntegerNumber\obj\Debug\SignofIntegerNumber.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\SignofIntegerNumber\obj\Debug\SignofIntegerNumber.pdb

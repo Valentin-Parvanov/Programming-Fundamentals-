@@ -1,0 +1,6 @@
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe.config
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\GreaterOfTwoValues\bin\Debug\GreaterOfTwoValues.pdb
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\GreaterOfTwoValues\obj\Debug\GreaterOfTwoValues.pdb

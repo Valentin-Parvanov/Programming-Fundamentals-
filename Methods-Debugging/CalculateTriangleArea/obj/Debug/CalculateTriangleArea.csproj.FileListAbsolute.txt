@@ -1,0 +1,6 @@
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe.config
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\CalculateTriangleArea\bin\Debug\CalculateTriangleArea.pdb
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\CalculateTriangleArea\obj\Debug\CalculateTriangleArea.pdb

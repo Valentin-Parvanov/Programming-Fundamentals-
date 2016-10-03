@@ -1,0 +1,6 @@
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\DrawaFilled Square\bin\Debug\DrawaFilled Square.exe.config
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\DrawaFilled Square\bin\Debug\DrawaFilled Square.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\DrawaFilled Square\bin\Debug\DrawaFilled Square.pdb
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\DrawaFilled Square\obj\Debug\DrawaFilled Square.csprojResolveAssemblyReference.cache
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\DrawaFilled Square\obj\Debug\DrawaFilled Square.exe
+C:\Programs\vs\Methods. Debugging and Troubleshooting Code\Methods-Debugging\DrawaFilled Square\obj\Debug\DrawaFilled Square.pdb
